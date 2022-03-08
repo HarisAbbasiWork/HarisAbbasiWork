@@ -1,5 +1,5 @@
 
-### Hi there I'm Haseeb Ali👋
+### Hi there I'm Haris Abbasi 👋
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/m-hamzashakeel/m-hamzashakeel/master/code.gif" width="500" height="350" />
 
@@ -7,10 +7,10 @@
 
 
 ### Personal Stuff:
-- 🙋‍♂️ Fromer Web Dev. Lead DSC Comsats University Islamabad.
+- 🙋‍♂️ Former Software Developer at Upshot Global Partner Solutions.
 - 💻 I'm a <b>MERN Stack </b> Developer.
 - 💬 Ask me about Web.
-- ✨ I'm learning Advance Backend Concepts.
+- ✨ I'm learning advance MERN Stack concepts.
 - 🎮 I love to play video games (Fifa,Dota 2).
 - 🌐 [Portfolio][portfolio]
 
@@ -28,7 +28,7 @@
 <summary>📝 My GitHub Stats</summary>
 <br>
 
-[![haseeb's github stats](https://github-readme-stats.vercel.app/api/?username=haseebalisajid&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+[![haseeb's github stats](https://github-readme-stats.vercel.app/api/?username=HarisAbbasiWork&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 </details>
 
@@ -43,8 +43,7 @@
 <br>
 Open Source Contributor from <b>Pakistan<b> ✌️
 
-[twitter]: https://twitter.com/iam_haseebali
-[linkedin]: https://www.linkedin.com/in/haseeb-ali-720531149/
-[facebook]: https://www.facebook.com/CBthecomputerguy/
-[frontend]:https://www.frontendmentor.io/profile/haseebalisajid
-[portfolio]:https://cb-portfolio.netlify.app/
+[twitter]: https://twitter.com/Abbasirock2
+[linkedin]: https://www.linkedin.com/in/haris-abbasi-b2368a1b5/
+[facebook]: https://www.facebook.com/haris.abbasi.1420/
+[portfolio]:https://haris-abbasi-portfolio.herokuapp.com/
