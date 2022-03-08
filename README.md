@@ -11,7 +11,7 @@
 - 💻 I'm a <b>MERN Stack </b> Developer.
 - 💬 Ask me about Web.
 - ✨ I'm learning advance MERN Stack concepts.
-- 🎮 I love to play video games (Fifa,Dota 2).
+- 🎮 I love to watch movies and tv shows.
 - 🌐 [Portfolio][portfolio]
 
 
