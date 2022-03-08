@@ -8,7 +8,7 @@
 
 ### Personal Stuff:
 - 🙋‍♂️ Former Software Developer at Upshot Global Partner Solutions.
-- 💻 I'm a <b>MERN Stack </b> Developer.
+- 💻 I'm a <b>MERN Stack </b> Developer with hands-on experience.
 - 💬 Ask me about Web.
 - ✨ I'm learning advance MERN Stack concepts.
 - 💻 I love to watch movies and tv shows.
