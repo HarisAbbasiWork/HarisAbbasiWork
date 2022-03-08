@@ -6,7 +6,7 @@
 ### I'm a Fresh Graduate & Developer.
 
 
-### Personal Stuff:
+### What About Me:
 - 🙋‍♂️ Former Software Developer at Upshot Global Partner Solutions.
 - 💻 I'm a <b>MERN Stack </b> Developer with hands-on experience.
 - 💬 Ask me about Web.
