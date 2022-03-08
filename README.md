@@ -39,7 +39,7 @@
 [<img align="left" alt="haseebalisajid | LinkedIn" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][linkedin]
 <br>
 <br>
-Open Source Contributor from <b>Pakistan<b> ✌️
+Open Source Contributor from <b>Pakistan<b> 
 
 [twitter]: https://twitter.com/Abbasirock2
 [linkedin]: https://www.linkedin.com/in/haris-abbasi-b2368a1b5/
