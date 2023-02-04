@@ -3,11 +3,11 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/m-hamzashakeel/m-hamzashakeel/master/code.gif" width="500" height="350" />
 
-### I'm a Fresh Graduate & Developer.
+### I'm a Backend Developer.
 
 
 ### What About Me:
-- 🙋‍♂️ Junior MERN Developer at Codistan & Former Software Developer at Upshot Global Partner Solutions.
+- 🙋‍♂️ MERN Developer at Codistan & Former Software Developer at Upshot Global Partner Solutions.
 - 💻 I'm a <b>MERN Stack </b> Developer with hands-on experience.
 - 💬 Ask me about Web.
 - ✨ I'm learning advance MERN Stack concepts.
