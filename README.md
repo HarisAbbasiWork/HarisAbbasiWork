@@ -7,7 +7,7 @@
 
 
 ### What About Me:
-- 🙋‍♂️ MERN Developer at Codistan & Former Software Developer at Upshot Global Partner Solutions.
+- 🙋‍♂️ Full Stack Developer at Red Buffer & Former MERN Developer at Codistan & Former Software Developer at Upshot Global Partner Solutions.
 - 💻 I'm a <b>MERN Stack </b> Developer with hands-on experience.
 - 💬 Ask me about Web.
 - ✨ I'm learning advance MERN Stack concepts.
